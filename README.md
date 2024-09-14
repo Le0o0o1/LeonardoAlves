@@ -1,3 +1,6 @@
-# Area de projetos do Leonardo
+# Área de projetos do Leonardo
 
-Aréa para os projetos do curso de graduação em Logística,
+Local destinado a todos os projetos executados durante todo o curso de logísitca da Fatec.
+
+# Índice
+

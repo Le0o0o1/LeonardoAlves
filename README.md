@@ -14,4 +14,4 @@ Local destinado a todos os projetos executados durante todo o curso de logísitc
 
 |    Função     | Equipe                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Scrum Master |   API         |     [![Linkedin Badge](https://www.linkedin.com/in/leonardo-rocha-alves-921617306/)
+| Scrum Master |   API         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rocha-alves-921617306/)

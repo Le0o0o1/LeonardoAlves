@@ -8,7 +8,7 @@ Local destinado a todos os projetos executados durante todo o curso de logísitc
 * [API]
 * [Fundamentos de ADM]
 * [Logística Empresarial]
-* [Informática]
+* [Informática](Informatica-Aplicada-na-Logistica)
 
 # Sobre o Leonardo
 
@@ -21,3 +21,6 @@ Olá, sou o Leonardo! Sou estudante de Logística na Fatec no período noturno e
 | Formulas e Questões  | Informatica | [Ver Relatório](https://docs.google.com/spreadsheets/d/1bEwdDOh98xJ8--PFPWfe0LVl0q7q5WmE/edit?usp=drive_link&ouid=110112794990417853129&rtpof=true&sd=true)
 | Resumo da Materia de Média Gestão  | Fundamentos ADM | [Ver Relatório](https://docs.google.com/document/d/1FfeplTQAT0DujEpo8_jfJyQ1FYZq3ybB/edit?usp=drive_link&ouid=110112794990417853129&rtpof=true&sd=true)
 | Scrum Master |   API         |  
+
+# Informatica Aplicada na Logistica
+[Dados Abertos e questões (20/09)](https://docs.google.com/spreadsheets/d/1bEwdDOh98xJ8--PFPWfe0LVl0q7q5WmE/edit?usp=drive_link&ouid=110112794990417853129&rtpof=true&sd=true)

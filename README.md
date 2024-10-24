@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Leonardo%20Rocha%20Alves&textBg=false&fontColor=000 /img>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Leonardo%20Rocha%20Alves&textBg=false&fontColor=000"/>
 
 # Área de projetos do Leonardo
 

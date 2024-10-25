@@ -26,3 +26,9 @@ Olá, sou o Leonardo! Sou estudante de Logística na Fatec no período noturno e
 
 # Informática Aplicada na Logística
 [Dados Abertos e questões (20/09)](https://docs.google.com/spreadsheets/d/1bEwdDOh98xJ8--PFPWfe0LVl0q7q5WmE/edit?usp=drive_link&ouid=110112794990417853129&rtpof=true&sd=true)
+
+# Tarefa 1 - PowerBI
+![Screenshot_1](https://github.com/user-attachments/assets/ef35892f-7d59-4421-b275-2b2000b52cd0)
+
+# Tarefa 3: Power BI fórmulas DAX e KPI
+![Screenshot_2](https://github.com/user-attachments/assets/387902ee-eddc-419d-8299-e30c2e277fd0)

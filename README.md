@@ -24,7 +24,15 @@ Olá, sou o Leonardo! Sou estudante de Logística na Fatec no período noturno e
 | 0  | Fundamentos ADM | [Ver Relatório](https://docs.google.com/document/d/1FfeplTQAT0DujEpo8_jfJyQ1FYZq3ybB/edit?usp=drive_link&ouid=110112794990417853129&rtpof=true&sd=true)
 | 0  | API | 
 
-# 👻 API ☠️
+# 👻 API ☠️ ]
+Na aula de projeto integrado em logística, desenvolvemos um trabalho colaborativo que envolveu várias ferramentas essenciais. Utilizamos o Excel para a análise de dados e a criação de relatórios, enquanto o Power BI foi empregado para a visualização e apresentação interativa das informações. O GitHub facilitou o versionamento e o compartilhamento do progresso do projeto com o "cliente", enquanto o Jira foi utilizado para gerenciar tarefas e acompanhar o andamento das atividades. O Slack garantiu uma comunicação em tempo real entre os membros da equipe e o "cliente".
+
+Esse projeto tem como foco principal a análise e filtragem das 10 principais cargas importadas e exportadas na região do RM Vale e Litoral Norte, que são transportadas pelo modal aéreo para cidades fora de São José dos Campos. O objetivo é permitir que o aeroporto da cidade busque oportunidades para o transporte dessas cargas de alto valor agregado. Essa abordagem visa aprimorar tanto as habilidades técnicas dos participantes quanto o trabalho em equipe, competências essenciais na área de logística.
+
+## Sprint 0
+![Screenshot_1](https://github.com/user-attachments/assets/67f4c66e-151a-465b-b73d-fec635f01488)
+[Download do Arquivo]()
+
 
 # 👨‍⚖️ Logística Empresarial 🔪
 

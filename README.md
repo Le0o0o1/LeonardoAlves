@@ -36,6 +36,6 @@ Olá, sou o Leonardo! Sou estudante de Logística na Fatec no período noturno e
 [Download do Arquivo](https://github.com/Le0o0o1/LeonardoAlves/blob/main/Tarefa%203%20-%20Power%20BI%20formulas%20DAX%20e%20KPI.pbix)
 
 # 💻 Tarefa 4 - 
-![Screenshot_2](https://github.com/user-attachments/assets/03d7fe78-94d6-43ba-b528-30dde9a65b72)
+![Screenshot_2](https://github.com/user-attachments/assets/66f87eab-f3dc-44ae-bffc-fb8046b73ff1)
 [Download do Arquivo](https://github.com/Le0o0o1/LeonardoAlves/blob/main/Tarefa%203%20-%20Power%20BI%20formulas%20DAX%20e%20KPI.pbix)
 

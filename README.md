@@ -31,7 +31,7 @@ Esse projeto tem como foco principal a análise e filtragem das 10 principais ca
 
 ## Sprint 0
 ![Screenshot_1](https://github.com/user-attachments/assets/67f4c66e-151a-465b-b73d-fec635f01488)
-[Download do Arquivo]()
+[Download do Arquivo](https://github.com/Le0o0o1/LeonardoAlves/blob/main/Sprint%200.pptx)
 
 
 # 👨‍⚖️ Logística Empresarial 🔪

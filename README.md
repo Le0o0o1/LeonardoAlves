@@ -6,7 +6,7 @@ Local destinado a todos os projetos executados durante todo o curso de logístic
 
 # 🖖🏾 Índice 🌌
 
-* [Sobre o Leonardo](Sobre-o-Leonardo)
+* [Sobre o Leonardo](https://github.com/Le0o0o1/LeonardoAlves?tab=readme-ov-file#%EF%B8%8F-sobre-o-leonardo-)
 * [API]
 * [Fundamentos de ADM]
 * [Logística Empresarial]

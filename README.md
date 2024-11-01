@@ -27,7 +27,11 @@ Olá, sou o Leonardo! Sou estudante de Logística na Fatec no período noturno e
 | Resumo da Materia de Média Gestão  | Fundamentos ADM | [Ver Relatório](https://docs.google.com/document/d/1FfeplTQAT0DujEpo8_jfJyQ1FYZq3ybB/edit?usp=drive_link&ouid=110112794990417853129&rtpof=true&sd=true)
 | Scrum Master |   API         |  
 
-# 💻 Informática
+# 👻 API ☠️
+
+# 👨‍⚖️ Logística Empresarial 🔪
+
+# 💻 Informática 👨‍💻
 
 ## 💻 Dados Abertos e questões
 ![Screenshot_1](https://github.com/user-attachments/assets/39cfcc69-f67f-4db1-be5d-1454119d9dcd)

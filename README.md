@@ -1,3 +1,6 @@
+
+![Banner promoção halloween preto branco e roxo](https://github.com/user-attachments/assets/e8846b72-b39d-45db-b5b5-192cf1b12c94)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Leonardo%20Rocha%20Alves&textBg=false&fontColor=000"/>
 
 # 🧙🏽 Área de projetos do Leonardo 💍
@@ -23,6 +26,8 @@ Olá, sou o Leonardo! Sou estudante de Logística na Fatec no período noturno e
 | Formulas e Questões  | Informática | [Ver Relatório](https://docs.google.com/spreadsheets/d/1bEwdDOh98xJ8--PFPWfe0LVl0q7q5WmE/edit?usp=drive_link&ouid=110112794990417853129&rtpof=true&sd=true)
 | Resumo da Materia de Média Gestão  | Fundamentos ADM | [Ver Relatório](https://docs.google.com/document/d/1FfeplTQAT0DujEpo8_jfJyQ1FYZq3ybB/edit?usp=drive_link&ouid=110112794990417853129&rtpof=true&sd=true)
 | Scrum Master |   API         |  
+
+## 💻 Informatica
 
 # 💻 Dados Abertos e questões
 ![Screenshot_1](https://github.com/user-attachments/assets/39cfcc69-f67f-4db1-be5d-1454119d9dcd)

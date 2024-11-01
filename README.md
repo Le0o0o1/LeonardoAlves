@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Leonardo%20Rocha%20Alves&textBg=false&fontColor=000"/>
 
-# 🧙🏽 Área de projetos do Leonardo
+# 🧙🏽 Área de projetos do Leonardo 💍
 
 Local destinado a todos os projetos executados durante todo o curso de logísitca da Fatec.
 
-# 🖖🏾 Índice
+# 🖖🏾 Índice 🌌
 
 * [Sobre o Leonardo](Sobre-o-Leonardo)
 * [API]
@@ -12,7 +12,7 @@ Local destinado a todos os projetos executados durante todo o curso de logísitc
 * [Logística Empresarial]
 * [Informática](Informatica-Aplicada-na-Logistica)
 
-# 🕵🏾‍♂️ Sobre o Leonardo
+# 🕵🏾‍♂️ Sobre o Leonardo 🔎 
 
 Olá, sou o Leonardo! Sou estudante de Logística na Fatec no período noturno e tenho grande desejo de atuar na área. Por meio deste repositório, pretendo demonstrar meu repertório e conhecimento na área, apresentando projetos concluídos, em andamento e futuros.
 
@@ -25,7 +25,7 @@ Olá, sou o Leonardo! Sou estudante de Logística na Fatec no período noturno e
 | Scrum Master |   API         |  
 
 # 💻 Dados Abertos e questões
-[Download do Arquivo](https://docs.google.com/spreadsheets/d/1bEwdDOh98xJ8--PFPWfe0LVl0q7q5WmE/edit?usp=drive_link&ouid=110112794990417853129&rtpof=true&sd=true)
+![Screenshot_1](https://github.com/user-attachments/assets/39cfcc69-f67f-4db1-be5d-1454119d9dcd)
 
 # 💻 Tarefa 1 - PowerBI
 ![Screenshot_1](https://github.com/user-attachments/assets/ef35892f-7d59-4421-b275-2b2000b52cd0)

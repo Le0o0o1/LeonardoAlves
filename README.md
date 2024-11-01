@@ -1,6 +1,3 @@
-
-![Banner promoção halloween preto branco e roxo](https://github.com/user-attachments/assets/e8846b72-b39d-45db-b5b5-192cf1b12c94)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Leonardo%20Rocha%20Alves&textBg=false&fontColor=000"/>
 
 # 🧙🏽 Área de projetos do Leonardo 💍
@@ -32,6 +29,7 @@ Olá, sou o Leonardo! Sou estudante de Logística na Fatec no período noturno e
 # 👨‍⚖️ Logística Empresarial 🔪
 
 # 💻 Informática 👨‍💻
+Na aula de informática aplicada à logística, realizei uma série de trabalhos práticos utilizando Excel e Power BI. No Excel, aplicaram fórmulas como SOMASE, MEDIA, SOMA e TABELA DINÂMICA para analisar e manipular dados abertos, ajudando a facilitar a filtragem de dados para futuras experiências profissionais. Já no Power BI, criei dashboards interativos, integrando dados de diferentes fontes e utilizando recursos como gráficos dinâmicos, medidas DAX e KPI para visualizar tendências e desempenhos logísticos. Essa experiência proporcionou uma compreensão profunda das ferramentas e seu impacto na eficiência logística.
 
 ## 💻 Dados Abertos e questões
 ![Screenshot_1](https://github.com/user-attachments/assets/39cfcc69-f67f-4db1-be5d-1454119d9dcd)

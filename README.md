@@ -13,7 +13,7 @@ Local destinado a todos os projetos executados durante todo o curso de logístic
 * [API]
 * [Fundamentos de ADM]
 * [Logística Empresarial]
-* [Informática](Informatica-Aplicada-na-Logistica)
+* [Informática](https://github.com/Le0o0o1/LeonardoAlves/blob/main/README.md#-inform%C3%A1tica)
 
 # 🕵🏾‍♂️ Sobre o Leonardo 🔎 
 

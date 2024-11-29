@@ -58,3 +58,6 @@ Na aula de informática aplicada à logística, realizei uma série de trabalhos
 ![Screenshot_2](https://github.com/user-attachments/assets/66f87eab-f3dc-44ae-bffc-fb8046b73ff1)
 [Download do Arquivo](https://github.com/Le0o0o1/LeonardoAlves/blob/main/Tarefa%204%20-%20Power%20BI%2C%20dados%20abertos%2C%20f%C3%B3rmulas%20DAX%2C%20KPI%20e%20Github.pbix)
 
+## 💻 Prova 28/11/2024
+![Screenshot_2]![Screenshot_1](https://github.com/user-attachments/assets/de966f55-9093-4731-8fc4-1205c06c3011)
+[Download do Arquivo]
